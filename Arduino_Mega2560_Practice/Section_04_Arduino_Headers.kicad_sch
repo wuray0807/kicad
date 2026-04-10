@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(paper "A4")
+	(title_block
+		(title "Section 04: Arduino Headers")
+		(date "2026-04-10")
+		(rev "1")
+		(comment 1 "Arduino Mega 2560 - Student Practice")
+		(comment 2 "All Arduino pin headers (digital 0-53, analog A0-A15, power header, ICSP)")
+		(comment 3 "Use symbols from: Arduino_Mega2560_Lib")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

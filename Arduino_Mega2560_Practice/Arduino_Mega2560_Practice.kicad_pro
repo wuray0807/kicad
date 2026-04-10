@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "filename": "Arduino_Mega2560_Practice.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "default_bus_thickness": 12.0,
+    "default_junction_size": 0.0,
+    "default_line_thickness": 6.0,
+    "default_text_size": 50.0,
+    "default_wire_thickness": 6.0,
+    "drawing_sheet_file": "",
+    "field_names": [],
+    "junction_size_choice": 3,
+    "label_size_ratio": 0.375,
+    "pin_symbol_size": 0.0,
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0
+  },
+  "sheets": [
+    ["a1b2c3d4-0001-0000-0000-000000000001", "Root"],
+        ["a1b2c3d4-0001-0000-0000-000000000002", "Section_01_USB_ATmega16U2"],
+    ["a1b2c3d4-0001-0000-0000-000000000003", "Section_02_ATmega2560_MCU"],
+    ["a1b2c3d4-0001-0000-0000-000000000004", "Section_03_Power_Supply"],
+    ["a1b2c3d4-0001-0000-0000-000000000005", "Section_04_Arduino_Headers"]
+  ],
+  "text_variables": {}
+}

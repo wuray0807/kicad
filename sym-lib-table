@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "Arduino_MEGA_2560-Rev3-rescue")(type "Legacy")(uri "${KIPRJMOD}/Arduino_MEGA_2560-Rev3-rescue.lib")(options "")(descr ""))
-)
